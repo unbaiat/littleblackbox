@@ -12,7 +12,7 @@
 
  By extracting them from the device's firmware.
 
-4. *I have a piece of software/firmware/whatever that uses default SSL keys. How can I contribute them to the LittleBlackBox project?*
+4. *I have a piece of software/firmware/whatever that uses default SSL keys. Can I contribute them to the LittleBlackBox project?*
 
  Yes! We will need you to send us a copy of the public certificate and the private key. Additionally, you will need to fill out the submission.txt template (located in the docs directory) with as much information as possible - the more the better. ZIP up these three files and send them to: littleblackbox@devttys0.com.
 
