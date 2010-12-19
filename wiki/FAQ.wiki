@@ -25,6 +25,6 @@
   * Wireshark has the ability to decrypt SSL traffic (www.wireshark.org).
   * SSLsniff can man-in-the-middle SSL sessions (www.thoughtcrime.org).
 
-7. *I've found a bug in the LittleBlackBox utility and/or an invalid entry in the lbb.db database.*
+7. *I've found a bug in the LittleBlackBox utility and/or an invalid entry in the database.*
 
  Please report all bugs to the LittleBlackBox Google Code page: http://code.google.com/p/littleblackbox/issues/list.
