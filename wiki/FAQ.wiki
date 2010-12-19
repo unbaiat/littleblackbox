@@ -23,7 +23,7 @@
 6. *Once I have a private key, how do I decrypt and/or man-in-the-middle HTTPS sessions?*
 
   * Wireshark has the ability to decrypt SSL traffic (http://www.wireshark.org).
-  * SSLsniff can man-in-the-middle SSL sessions (http://www.thoughtcrime.org).
+  * SSLsniff can man-in-the-middle SSL sessions (http://www.thoughtcrime.org/software/sslsniff/).
 
 7. *I've found a bug in the LittleBlackBox utility and/or an invalid entry in the database.*
 
